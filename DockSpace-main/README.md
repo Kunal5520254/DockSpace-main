@@ -59,8 +59,8 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
 
 **13. [Bakery Foundation Example on Windows 🍞]**
 
-Goal: Set up Packer on Windows to create a custom Amazon Machine Image (AMI) with Python 3.9.
-Key Focus: Image automation, AWS infrastructure provisioning, and hands-on cloud deployment.
+   - **Goal:** Set up Packer on Windows to create a custom Amazon Machine Image (AMI) with Python 3.9.
+   - **Key Focus:** Image automation, AWS infrastructure provisioning, and hands-on cloud deployment.
 
 ---
 
