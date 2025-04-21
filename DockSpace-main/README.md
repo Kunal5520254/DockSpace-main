@@ -46,6 +46,22 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
 **10. [Deploying a Streamlit App in Docker on AWS EC2](https://github.com/vidhi-jaju/DockSpace/tree/f10349aa4b29be6cb654af3eae3a799905edccfb/10.%20Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2) ☁️**
    - **Goal:** Deploy a containerized Streamlit application on an AWS EC2 instance for seamless and scalable web app hosting.  
    - **Key Focus:** AWS networking, Docker containerization, cloud deployment, and security.
+
+**11. [Microservices Orchestration with Minikube & Kubernetes ☸️]**
+
+Goal: Deploy and manage microservices efficiently using Kubernetes and Minikube.
+Key Focus: Service discovery, load balancing, and containerized microservices deployment.
+
+**12. [Microservices Architecture using Docker Swarm ⚓]**
+
+Goal: Build and deploy a scalable microservices-based application using Docker Swarm.
+Key Focus: Load balancing, service discovery, and distributed application management.
+
+**13. [Bakery Foundation Example on Windows 🍞]**
+
+Goal: Set up Packer on Windows to create a custom Amazon Machine Image (AMI) with Python 3.9.
+Key Focus: Image automation, AWS infrastructure provisioning, and hands-on cloud deployment.
+
 ---
 
 
