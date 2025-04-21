@@ -47,15 +47,15 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
    - **Goal:** Deploy a containerized Streamlit application on an AWS EC2 instance for seamless and scalable web app hosting.  
    - **Key Focus:** AWS networking, Docker containerization, cloud deployment, and security.
 
-**11. [Microservices Orchestration with Minikube & Kubernetes ☸️]**
+**11. [Microservices Orchestration with Minikube & Kubernetes ☸️](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/11.Microservices%20Orchestration%20with%20Minikube%20and%20Kubernetes)**
 
-Goal: Deploy and manage microservices efficiently using Kubernetes and Minikube.
-Key Focus: Service discovery, load balancing, and containerized microservices deployment.
+   - **Goal:** Deploy and manage microservices efficiently using Kubernetes and Minikube.
+   - **Key Focus:** Service discovery, load balancing, and containerized microservices deployment.
 
 **12. [Microservices Architecture using Docker Swarm ⚓]**
 
-Goal: Build and deploy a scalable microservices-based application using Docker Swarm.
-Key Focus: Load balancing, service discovery, and distributed application management.
+   - **Goal:** Build and deploy a scalable microservices-based application using Docker Swarm.
+   - **Key Focus:** Load balancing, service discovery, and distributed application management.
 
 **13. [Bakery Foundation Example on Windows 🍞]**
 
