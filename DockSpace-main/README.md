@@ -11,27 +11,27 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
    - **Goal:** Kickstart my Docker journey by running the classic "Hello World" container.  
    - **Key Focus:** Understanding basic Docker commands, image execution, and container runtime.  
 
-**2. [Dockerized Streamlit Development Environment](https://github.com/vidhi-jaju/DockSpace/tree/df41de74910a233bef78986f156505a9be520188/2.%20Dockerized%20Streamlit%20Development%20Environment) 📊**  
+**2. [Dockerized Streamlit Development Environment](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/2.%20Dockerized%20Streamlit%20Development%20Environment) 📊**  
    - **Goal:** Build a containerized Streamlit environment for smooth and efficient data visualization.  
    - **Key Focus:** Web app deployment, interactive UI, and container efficiency.  
 
-**3. [Titanic Survival Predictor: Containerized Streamlit App](https://github.com/vidhi-jaju/DockSpace/tree/df41de74910a233bef78986f156505a9be520188/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App) 🚢**  
+**3. [Titanic Survival Predictor: Containerized Streamlit App](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App) 🚢**  
    - **Goal:** Deploy a Machine Learning-powered Titanic survival prediction app using Streamlit and Docker.  
    - **Key Focus:** ML model serving, interactive UI, and cloud deployment.  
 
-**4. [Containerized MySQL: Agile & Efficient](https://github.com/vidhi-jaju/DockSpace/tree/df41de74910a233bef78986f156505a9be520188/4.%20Containerized%20MySQL%3A%20Agile%20%26%20Efficient%20%F0%9F%90%AC) 🐬**  
+**4. [Containerized MySQL: Agile & Efficient](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App) 🐬**  
    - **Goal:** Deploy MySQL in a Docker container, ensuring fast, reliable, and persistent database management.  
    - **Key Focus:** Data persistence, networking, and security.  
 
-**5. [Docker Volume Persistence: Bind Mounts with Linux Containers](https://github.com/vidhi-jaju/DockSpace/tree/c0a35705d5a4a98cea268e1bd71aedd9ed3faa46/5.%20Docker%20Volume%20Persistence%3A%20Bind%20Mounts%20with%20Linux%20Containers%20) 🗂️**  
+**5. [Docker Volume Persistence: Bind Mounts with Linux Containers](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/4.%20Containerized%20MySQL_%20Agile%20%26%20Efficient%20%F0%9F%90%AC) 🗂️**  
    - **Goal:** Ensure data persistence and prevent loss by using Docker volumes and bind mounts.  
    - **Key Focus:** Storage management, Linux containers, and backups.  
 
-**6. [Docker Bridge: Balancing Isolation & Connectivity](https://github.com/vidhi-jaju/DockSpace/tree/5b00bb02b0334f158600cf6affdb21b3df2dcaf9/6.%20Docker%20Bridge%3A%20Balancing%20Isolation%20%26%20Connectivity%20) 🔗**  
+**6. [Docker Bridge: Balancing Isolation & Connectivity](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/5.%20Docker%20Volume%20Persistence_%20Bind%20Mounts%20with%20Linux%20Containers) 🔗**  
    - **Goal:** Master Docker bridge networks to create a balance between container isolation and seamless connectivity.  
    - **Key Focus:** Multi-container communication, secure networking, and efficiency.  
 
-**7. [Streamlit & PostgreSQL, Docked](https://github.com/vidhi-jaju/DockSpace/tree/581f6bc0ed2ce27bb10af153c9ac01fd756bd86a/7.%20Streamlit%20%26%20PostgreSQL%2C%20Docked) 🐘**  
+**7. [Streamlit & PostgreSQL, Docked]() 🐘**  
    - **Goal:** Connect Streamlit with PostgreSQL inside a containerized environment for real-time data interaction.  
    - **Key Focus:** Full-stack integration, database handling, and scalable applications.  
 
