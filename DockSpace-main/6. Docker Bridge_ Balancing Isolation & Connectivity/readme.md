@@ -43,11 +43,11 @@ docker network create --driver bridge --subnet 172.20.0.0/16 --ip-range 172.20.2
 ---
 
 ## 🚀 2. Running Containers in the Custom Network
-### Running **Redis Container** (`vidhi-database`)
+### Running **Redis Container** (`Kunal-database`)
 ```bash
 docker run -itd --net=Kunal-bridge --name=Kunal-database redis
 ```
-### Running **BusyBox Container** (`vidhi-server-A`)
+### Running **BusyBox Container** (`Kunal-server-A`)
 ```bash
 docker run -itd --net=Kunal-bridge --name=Kunal-server-A busybox
 ```
@@ -65,11 +65,11 @@ Expected Output:
 ---
 
 ## 📔 3. Testing Communication Between Containers
-### Ping from **vidhi-database** to **vidhi-server-A**
+### Ping from **Kunal-database** to **Kunal-server-A**
 ```bash
 docker exec -it Kunal-database ping 172.20.240.2
 ```
-### Ping from **vidhi-server-A** to **vidhi-database**
+### Ping from **Kunal-server-A** to **Kunal-database**
 ```bash
 docker exec -it Kunal-server-A ping 172.20.240.1
 ```
@@ -82,7 +82,7 @@ We add another container (`Kunal-server-B`) on the **default bridge network**.
 ```bash
 docker run -itd --name=Kunal-server-B busybox
 ```
-### 📌 Get IP of `vidhi-server-B`
+### 📌 Get IP of `Kunal-server-B`
 ```bash
 docker inspect -format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' Kunal-server-B
 ```
