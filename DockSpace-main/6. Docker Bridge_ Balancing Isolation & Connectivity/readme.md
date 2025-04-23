@@ -102,7 +102,7 @@ docker exec -it Kunal-database ping 172.17.0.2
 ## 🔍 6. Confirming Network Isolation
 ### Inspect Networks
 ```bash
-docker network inspect vidhi-bridge
+docker network inspect Kunal-bridge
 docker network inspect bridge
 ```
 ✅ `Kunal-bridge` should contain `Kunal-database` & `Kunal-server-A`.
