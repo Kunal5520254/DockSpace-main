@@ -31,7 +31,7 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
    - **Goal:** Master Docker bridge networks to create a balance between container isolation and seamless connectivity.  
    - **Key Focus:** Multi-container communication, secure networking, and efficiency.  
 
-**7. [Streamlit & PostgreSQL, Docked]() 🐘** 
+**7. [Streamlit & PostgreSQL, Docked](https://github.com/Kunal5520254/DockSpace-main/tree/main/DockSpace-main/7.%20Streamlit%20%26%20PostgreSQL%2C%20Docked) 🐘** 
    - **Goal:** Connect Streamlit with PostgreSQL inside a containerized environment for real-time data interaction.  
    - **Key Focus:** Full-stack integration, database handling, and scalable applications.  
 
